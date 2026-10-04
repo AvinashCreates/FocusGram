@@ -1,6 +1,7 @@
 # FocusGram
+FocusGram is a prototype Android WebView client designed to provide a focused Instagram experience. 
 
-FocusGram is an Android WebView-based Instagram focus client prototype.
+You can download the latest APK directly from the [latest debug build](https://github.com/AvinashCreates/FocusGram/blob/main/app/build/outputs/apk/debug/app-debug.apk).
 
 ## Goal
 
