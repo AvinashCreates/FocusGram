@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="focusgram_background">#111111</color>
+    <color name="focusgram_surface">#1B1B1B</color>
+    <color name="focusgram_text">#F5F5F5</color>
+    <string name="app_name">FocusGram</string>
+    <style name="Theme.FocusGram" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/focusgram_background</item>
+        <item name="android:navigationBarColor">@color/focusgram_background</item>
+        <item name="android:colorAccent">@color/focusgram_text</item>
+    </style>
+</resources>
